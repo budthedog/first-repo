@@ -1,4 +1,4 @@
-# first-repo
+# run buddy inc.
 module one
 # Run Buddy
 
